@@ -1,0 +1,29 @@
+h1  {
+    color: orange;
+}
+
+p {
+    color: slategray;
+}
+
+p.first{
+    margin: 20px;
+    font-size: 18px;
+}
+
+p.first.second{
+    border: 3px dashed yellow;
+}
+
+.error{
+    color: green;
+}
+
+div{
+    display: inline-block;
+    border: 2px solid red;
+}
+
+div p{
+    letter-spacing: 3px;
+}
